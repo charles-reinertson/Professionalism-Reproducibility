@@ -21,8 +21,14 @@ Wikipedia - The Pageviews API ([documentation](https://wikitech.wikimedia.org/wi
 
 **Final Output Files**
 
-        step2_part1.png
-
-        step2_part2.png
-
-        step2_part3.png
+    step2_part1.png
+    
+    Time series for the articles that have the highest average page requests and the lowest average page requests for desktop access and mobile access.
+    
+    step2_part2.png
+    
+    Time series for the top 10 article pages by largest (peak) page views over the entire time by access type. You first find the month for each article that contains the highest (peak) page views, and then order the articles by these peak values.
+    
+    step2_part3.png
+    
+    Time series of pages that have the fewest months of available data.

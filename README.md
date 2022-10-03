@@ -18,3 +18,11 @@ Wikipedia - The Pageviews API ([documentation](https://wikitech.wikimedia.org/wi
     dino_monthly_cumulative_<start201501>-<end202210>.json
 
       Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
+
+**Final Output Files**
+
+        step2_part1.png
+
+        step2_part2.png
+
+        step2_part3.png

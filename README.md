@@ -7,14 +7,14 @@ Wikipedia - The Pageviews API ([documentation](https://wikitech.wikimedia.org/wi
 
 **Intermediary Data Files**
 
-dino_monthly_mobile_<start201501>-<end202210>.json
-  
-  Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
-  
-dino_monthly_desktop_<start201501>-<end202210>.json
-  
-  Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
-  
-dino_monthly_cumulative_<start201501>-<end202210>.json
-  
-  Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
+    dino_monthly_mobile_<start201501>-<end202210>.json
+
+      Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
+
+    dino_monthly_desktop_<start201501>-<end202210>.json
+
+      Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
+
+    dino_monthly_cumulative_<start201501>-<end202210>.json
+
+      Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
